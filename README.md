@@ -1,2 +1,2 @@
-# CeXDatabaseDeployment
-This repository will act as CeX Database source control and versioning and will be used in Deployment and releases
+# CeX Database Deployment Repo
+This repository contains the Database Script code for automated database deployment and acts as Database schema source control. 
