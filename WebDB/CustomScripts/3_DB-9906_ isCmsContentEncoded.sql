@@ -1,0 +1,1 @@
+INSERT INTO appsettings(`Key`, `Value`, PlatformId, IsPostLoginSetting, AppVersion,AppEnvironment) VALUES('isCmsContentEncoded', fn_app_setting('0','e') ,'17','0','','');
